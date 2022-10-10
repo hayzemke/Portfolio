@@ -1,0 +1,61 @@
+body{
+    background-color: #6D9886;
+}
+
+hr{
+    margin-top: 75px;
+}
+
+.container-fluid{
+    background-color: #D3E4CD; 
+    padding: 3% 5%;
+    width: 70%;
+    margin: 100px auto;
+    border-radius: 15px;
+    height: auto;
+}
+
+.name{
+    text-align: center;
+    font-family: 'Bad Script', cursive;
+    line-height: 3;
+    margin-top: 100px;
+    /* padding: 10%; */
+}
+
+.main-content{
+    padding-top: 75px;
+    padding-bottom: 200px;
+}
+
+.haley{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin: auto 100px;
+}
+
+.bio{
+    text-align: center;
+    margin: auto 100px;
+    padding-top: 60px;
+}
+
+/* contact page */
+.contact-info{
+    text-align: center;
+}
+
+.email-header{
+    text-align: center;
+}
+
+.email{
+    text-align: center;
+}
+
+/* project page  */
+.title{
+    text-align: center;
+    margin-top: 100px;
+}
