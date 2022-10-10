@@ -6,6 +6,11 @@ hr{
     margin-top: 75px;
 }
 
+footer{
+    text-align: center;
+    font-size: 10px;
+}
+
 .container-fluid{
     background-color: #D3E4CD; 
     padding: 3% 5%;
