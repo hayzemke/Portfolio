@@ -3,7 +3,7 @@ body{
 }
 
 hr{
-    margin-top: 75px;
+    margin-top: 50px;
 }
 
 footer{
@@ -57,12 +57,24 @@ footer{
     text-align: center;
 }
 
+.form-outline{
+    text-align: center;
+}
+
 /* project page  */
 .title{
-    text-align: center;
-    margin-top: 100px;
+    text-align: left;
+    margin-top: 50px;
 }
 
 .current-projects{
     margin-left: 50px;
+}
+
+.finished-projects{
+    text-align: center;
+}
+
+.proj-content{
+    margin-top: 50px;
 }
