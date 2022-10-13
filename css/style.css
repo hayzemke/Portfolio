@@ -79,3 +79,24 @@ footer{
 .proj-content{
     margin-top: 50px;
 }
+
+/* cv  */
+.page-title{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 15px;
+}
+
+.cv-titles{
+    text-decoration: underline;
+}
+.first-point{
+    list-style: none;
+}
+.sub-point{
+    margin-left: 30px;
+}
+
+.row{
+    margin-bottom: 20px;
+}
