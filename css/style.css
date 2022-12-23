@@ -2,8 +2,8 @@ body{
     background-color: #6D9886;
 }
 
-hr{
-    margin-top: 50px;
+h1{
+    text-align: center;
 }
 
 footer{
@@ -24,13 +24,34 @@ footer{
     text-align: center;
     font-family: 'Bad Script', cursive;
     line-height: 3;
-    margin-top: 100px;
-    /* padding: 10%; */
+    padding: 5%;
+    margin-top: 30px;
 }
 
-.middle-container{
-    padding-top: 75px;
-    padding-bottom: 100px;
+.bio-container{
+    /* padding-top: 75px;
+    padding-bottom: 100px; */
+}
+
+.projects{
+    
+}
+
+hr{
+    border: dotted black 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 60px auto;
+  
+  }
+
+  #name_header{
+    margin-bottom: 30px;
+  }
+
+#project_header{
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 80px;
 }
 
 .haley{
@@ -43,6 +64,17 @@ footer{
     margin: auto;
     padding-top: 60px;
 }
+
+.contact-container{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+
+* {
+     color:black; 
+     text-decoration: none;
+    }
 
 /* contact page */
 .contact-info{
