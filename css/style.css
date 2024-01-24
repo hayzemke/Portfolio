@@ -20,12 +20,10 @@ footer{
     height: auto;
 }
 
-.name{
+#name_header{
     text-align: center;
-    font-family: 'Bad Script', cursive;
+    font-family: 'Lato', sans-serif;
     line-height: 3;
-    padding: 5%;
-    margin-top: 30px;
 }
 
 .bio-container{
@@ -41,29 +39,28 @@ hr{
     border: dotted black 6px;
     border-bottom: none;
     width: 4%;
-    margin: 60px auto;
-  
-  }
+    margin: 100px auto 70px;
+}
 
-  #name_header{
-    margin-bottom: 30px;
-  }
-
-#project_header{
+.section-header{
     font-family: 'Montserrat', sans-serif;
-    margin-bottom: 80px;
+    margin-bottom: 100px;
     text-align: center;
+}
+
+.bio{
+    margin-top: 60px;
 }
 
 .haley{
     width: 300px;
     height: 300px;
+    margin-left: 90px;
 }
 
-.bio{
+.about-me{
     text-align: center;
     margin: auto;
-    padding-top: 60px;
 }
 
 .contact-container{
