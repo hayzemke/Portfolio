@@ -1,5 +1,6 @@
 body{
-    background-color: #6D9886;
+    background: rgb(76,85,241);
+    background: radial-gradient(circle, rgba(76,85,241,1) 0%, rgba(148,233,226,1) 100%);
 }
 
 h1{
@@ -12,7 +13,8 @@ footer{
 }
 
 .container-fluid{
-    background-color: #D3E4CD; 
+    background-color: white; 
+    background-color: hsla(0, 0%, 100%, 0.30);;
     padding: 3% 5%;
     width: 70%;
     margin: 100px auto;
